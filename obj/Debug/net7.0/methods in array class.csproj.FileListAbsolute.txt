@@ -1,0 +1,15 @@
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\bin\Debug\net7.0\methods in array class.exe
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\bin\Debug\net7.0\methods in array class.deps.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\bin\Debug\net7.0\methods in array class.runtimeconfig.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\bin\Debug\net7.0\methods in array class.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\bin\Debug\net7.0\methods in array class.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\methods in array class.csproj.AssemblyReference.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\methods in array class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\methods in array class.AssemblyInfoInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\methods in array class.AssemblyInfo.cs
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\methods in array class.csproj.CoreCompileInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\methods in array class.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\refint\methods in array class.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\methods in array class.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\methods in array class.genruntimeconfig.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\methods in array class\obj\Debug\net7.0\ref\methods in array class.dll
